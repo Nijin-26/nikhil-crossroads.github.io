@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    background-color:gainsboro;
+}
+
+#showimg{
+
+    background: url('../img/pic4.jpg');
+    background-size:100%;
+    background-repeat:no-repeat;
+    
+    height:500px;
+ 
+}
+
+#about{
+    
+    margin-top: -200px;
+}
+
+.fa{
+    color:black;
+}
+.fa:hover{
+
+  
+    color: ghostwhite;
+}
+
+.line{
+    border: 1px solid teal;
+}
+
+.card{
+    border-top: 3px solid teal;
+    border-bottom: 3px solid teal;
+}
+
+#header a:hover{
+        color: white;
+}
+
+
